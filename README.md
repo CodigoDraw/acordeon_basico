@@ -25,7 +25,7 @@
     </div>
 
 #######  CSS  #######
-##  	> aqui você pode colar no começo da pagina ou link no doctype
+> aqui você pode colar no começo da pagina ou link no doctype
 	<style>
         .acordeon-item {
             background: white;
