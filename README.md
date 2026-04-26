@@ -1,5 +1,7 @@
 # Implemente em seu site, um acordeon bem bacana
-\`\`\` HTML
+#################################################################
+	# HTML
+#################################################################
 > Tags HTML, você pode modificar a vontade,  menos as classes 
  <div class="acordeon-item">
         <div class="acordeon-titulo">▶ O que é GitHub?</div>
@@ -21,8 +23,9 @@
             <p>Que subir código não é bruxaria e que NPM não é GitHub. Também criou um acordeon lindo! 🚀</p>
         </div>
     </div>
-	
-	\`\`\` CSS
+#################################################################
+	# CSS
+#################################################################
 	> aqui você pode colar no começo da pagina ou link no doctype
 	<style>
         .acordeon-item {
@@ -65,8 +68,9 @@
             padding: 0 15px 15px 15px;
         }
     </style>
-	
-	\`\`\` JS
+#################################################################	
+	# JS
+#################################################################
 	> ATENÇÃO :: aqui o js deve ficar no final do site, antes de fechar o </body>
 	                <script>
         // Pega todos os títulos do acordeon
