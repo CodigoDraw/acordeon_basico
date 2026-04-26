@@ -18,7 +18,7 @@
     </div>
 
     <div class="acordeon-item">
-        <div class="acordeon-titulo">▶ O que o Jonas aprendeu hoje?</div>
+        <div class="acordeon-titulo">▶ O que aprendemos  hoje? </div>
         <div class="acordeon-conteudo">
             <p>Que subir código não é bruxaria e que NPM não é GitHub. Também criou um acordeon lindo! 🚀</p>
         </div>
