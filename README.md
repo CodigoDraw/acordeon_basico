@@ -1,5 +1,5 @@
 # Implemente em seu site, um acordeon bem bacana
-## HTML
+\`\`\` HTML
 > Tags HTML, você pode modificar a vontade,  menos as classes 
  <div class="acordeon-item">
         <div class="acordeon-titulo">▶ O que é GitHub?</div>
@@ -22,7 +22,7 @@
         </div>
     </div>
 	
-	# CSS
+	\`\`\` CSS
 	> aqui você pode colar no começo da pagina ou link no doctype
 	<style>
         .acordeon-item {
@@ -66,7 +66,7 @@
         }
     </style>
 	
-	# JS
+	\`\`\` JS
 	> ATENÇÃO :: aqui o js deve ficar no final do site, antes de fechar o </body>
 	                <script>
         // Pega todos os títulos do acordeon
